@@ -1,6 +1,8 @@
 # 🤖 MORVS AI Chat Bot
 
-<div align="center">
+
+<div align="center"><img width="1919" height="873" alt="Screenshot 2025-07-22 082611" src="https://github.com/user-attachments/assets/7a3c18f8-8d78-4038-9fab-00b1647ae088" />
+
   <img src="https://img.shields.io/badge/AI-Chat%20Bot-00D4AA?style=for-the-badge&logo=robot&logoColor=white" alt="AI Chat Bot"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
